@@ -1,11 +1,12 @@
 <h2 align="center">👋 Hi there, Kamran here!</h2>
 
 <p align="center">
-  🎓 Computer Science Graduate from TU Berlin <br>
-  💻 Passionate about Java, Python, and Backend platforms <br>
-  🚀 Exploring Kubernetes, Competitive Programming & Open Source <br>
-  📫 Let's connect & build something amazing together!
+  🎓 Computer Science graduate from TU Berlin.<br>
+  💻 Enthusiastic about Java, Python, and building robust backend platforms.<br>
+  🚀 Currently exploring Kubernetes, containerization, and contributing to open source.<br>
+  📫 Feel free to connect — let’s collaborate and create something impactful!
 </p>
+
 
 
 
