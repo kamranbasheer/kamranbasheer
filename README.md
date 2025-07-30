@@ -40,9 +40,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kamranbasheer&theme=tokyonight&hide_border=false/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kamranbasheer&theme=tokyonight&hide_border=false)
+
 
 ## 🏆 GitHub Trophies
 
