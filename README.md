@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranbasheer&theme=tokyonight&hide_border=false%22%20alt=%22GitHub%20Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kamranbasheer&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
