@@ -45,7 +45,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranbasheer&layout=compact)
+![Top Langs](https://github-readme-statss-alpha-six.vercel.app/api/top-langs/?username=kamranbasheer&layout=compact&count_private=true)
+
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kamranbasheer&theme=tokyonight&hide_border=false)
 
 
