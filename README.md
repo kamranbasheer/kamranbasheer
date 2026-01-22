@@ -52,7 +52,6 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kamranbasheer&theme=default)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kamranbasheer&theme=default&cache=1)
 
 
