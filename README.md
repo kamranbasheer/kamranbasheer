@@ -1,11 +1,6 @@
 <h2 align="center">👋 Hi there, Kamran here!</h2>
 
-<p align="center">
-  🎓 Computer Science graduate from TU Berlin.<br>
-  💻 Enthusiastic about Java, Python, and building robust backend platforms.<br>
-  🚀 Currently exploring Kubernetes, containerization, and contributing to open source.<br>
-  📫 Feel free to connect — let’s collaborate and create something impactful!
-</p>
+<p align="center"> 🎓 Computer Science graduate from <b>TU Berlin</b><br> 💻 Backend-focused developer passionate about <b>Kotlin, Java, and Python</b><br> 🛠️ Building scalable, reliable systems & clean architectures<br> 🚀 Currently diving into <b>Kubernetes, containerization</b>, and open-source contributions<br> 📫 Let’s connect and build something meaningful together </p>
 
 
 
